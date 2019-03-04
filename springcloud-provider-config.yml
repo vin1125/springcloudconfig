@@ -41,7 +41,7 @@ info:                              #点击别名  访问info信息
   build.version: $project.version$
 ---
 server:
-  port: 8001
+  port: 8002
 mybatis:
   type-aliases-package: com.hzit.bean
   mapper-locations:
